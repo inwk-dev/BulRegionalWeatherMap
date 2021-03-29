@@ -1,0 +1,23 @@
+text {
+    font-size: 36px;
+    font-family: DejaVu Sans Condensed;
+  }
+  .country {
+    fill: #ffffff;
+    stroke: none;
+    stroke-width: 2;
+  }
+  .oblast {
+    fill: lightblue;
+    stroke: #646464;
+    stroke-width: 1;
+  }
+
+.oblast:hover{
+    fill: rgb(34, 72, 238);
+}
+
+#modal{
+    text-align: center;
+    height: 20vh;
+}
